@@ -46,6 +46,8 @@ Supported formats:
 
 Videos are stored in the `videos` directory and their information is saved in an SQLite database.
 
+after putting your videos in the `videos` folder do the command: `python3 int_videos.py` to load the videos on the bot.
+
 ## Troubleshooting
 
 If you encounter voice-related errors:
